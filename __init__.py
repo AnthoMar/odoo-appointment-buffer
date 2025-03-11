@@ -1,1 +1,1 @@
-from . import appointment_type
+from . import models
